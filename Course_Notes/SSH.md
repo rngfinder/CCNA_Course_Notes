@@ -2,7 +2,7 @@
 
 CONSOLE PORT SECURITY
 
-- By DEFAULT, no password us needed to access the CLI of a CISCO IOS DEVICE via the CONSOLE PORT
+- By DEFAULT, no password is needed to access the CLI of a CISCO IOS DEVICE via the CONSOLE PORT
 - You can CONFIGURE a PASSWORD on the *console line*
     - A USER will have to enter a PASSWORD to ACCESS the CLI via the CONSOLE PORT
 
